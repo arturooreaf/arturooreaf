@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hi, I'm Arturo Orea
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=190&section=header&text=Arturo%20Orea&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20Backend%20Developer&descSize=20&descAlignY=58" alt="Arturo Orea, Junior Backend Developer" width="100%" />
 
-### Junior Backend Developer · Node.js · TypeScript · PostgreSQL
+<a href="https://github.com/arturooreaf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+e-prescription+APIs+in+healthcare;GDPR-compliant+by+design;Tests+ship+with+the+code" alt="Node.js · TypeScript · PostgreSQL" />
+</a>
 
 Madrid, Spain · Dual vocational training student (DAM) · Backend developer at Careexpand
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arturo--orea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arturo-orea)
 [![Email](https://img.shields.io/badge/Email-aoreaf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aoreaf@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=arturooreaf&color=8957e5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -51,6 +54,22 @@ Also: SQL, Swagger / OpenAPI, JWT, Zod.
   <img src="https://skillicons.dev/icons?i=php,py&theme=dark" alt="PHP, Python" />
 </p>
 
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arturooreaf&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturooreaf&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=powershell,shell,batchfile" alt="Top languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=arturooreaf&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturooreaf/arturooreaf/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/arturooreaf/arturooreaf/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+</div>
+
 ## Projects
 
 | Project | What it is | Stack |
@@ -71,3 +90,5 @@ Also: SQL, Swagger / OpenAPI, JWT, Zod.
 ## Languages
 
 Spanish (native) · English (B1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=110&section=footer" alt="" width="100%" />
