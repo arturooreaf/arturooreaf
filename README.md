@@ -30,7 +30,7 @@ I combine work with a Higher Vocational Degree in **Multiplatform Application De
 - **Per-doctor data isolation:** no doctor can access another doctor's patients. It's a legal requirement, not a design preference.
 - **CIMA integration** (Spanish Agency of Medicines) to sync the national drug catalog.
 - **CGCOM integration** (General Council of Medical Associations) to verify each doctor's license to practice, with **RS512**-signed tokens and auditing of every response in the database.
-- Identified **eight regulatory validation requirements** missing from the project specification, before reaching the certification phase.
+- Identified **seven regulatory validation requirements** missing from the project specification, before reaching the certification phase.
 
 ## Featured project
 
